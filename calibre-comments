@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+export CALIBRE_PYTHON_PATH=/Users/toni.tassani/homebrew/bin/python3
+calibre-debug /Users/toni.tassani/code/calibre-automations/comments.py -- first other
